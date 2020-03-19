@@ -1,0 +1,16 @@
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CMakeFiles/install.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CMakeFiles/pathtracer.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CMakeFiles/ZERO_CHECK.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/CMakeFiles/install.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/CMakeFiles/CGL.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/CMakeFiles/ALL_BUILD.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/CMakeFiles/ZERO_CHECK.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glew/CMakeFiles/install.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glew/CMakeFiles/glew.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glfw/CMakeFiles/install.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glfw/CMakeFiles/uninstall.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glfw/src/CMakeFiles/install.dir
+/Users/ziyezhong/desktop/CS284/p3-1-pathtracer-sp20-ZiyeZhong/xcode/CGL/deps/glfw/src/CMakeFiles/glfw.dir
