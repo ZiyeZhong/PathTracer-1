@@ -164,6 +164,8 @@
                    </tr>
                </table>
            </div>
+        <li><p>Lighting sampling performs much better than uniform hemisphere sampling with same sample per pixel and light rays. This is because in uniform hemisphere sampling, the samples are taken in all direction, and the radiances of many directions would be zero, which creates many dark spots in the render; while lighting sampling takes the samples which would be more likely contribute to the render, making the result smoother. However, when sample per ray is very low when using lighting sampling, even with very high rays per pixel, the image is still a little noisy.
+</p></li>
        </ul>
     
     <br>
@@ -287,6 +289,7 @@
           
        <ul>
            <li><p>To implement the adaptive sampling, raytrace_pixel(…) is updated. When iterating though num_samples of samples, s1 as the sum of the iterated sample's illuminance xk, and s2 as the sum of x*x, are calculated in each iteration. For every samplesPerBatch pixel, the mean and variance are calculated, through which we get the value of I. I is compared with maxTolerance⋅μ. If I is no larger than 1.96 * maxTolerance⋅μ, the for loop breaks and returns the spectrum / n with n equals to the checked numbers of samples. Otherwise, the iteration goes on and will check again after samplesPerBatch pixels.</p></li>
+           <li><p>Below is the sample rate image and rendered result of CBbunny.dae.</p></li>
            <div align="center">
                <table style="width=100%">
                    <tr>
